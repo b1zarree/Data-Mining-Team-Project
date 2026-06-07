@@ -1,0 +1,24 @@
+{
+    "execution_time": "2026-06-07 20:06:10",
+    "total_records": 100,
+    "tier_analysis": [
+        {
+            "price_tier": "Cheap",
+            "average_price": 16.51423076923077,
+            "average_rating": 2.9615384615384617,
+            "total_products": 26
+        },
+        {
+            "price_tier": "Expensive",
+            "average_price": 50.02575,
+            "average_rating": 2.825,
+            "total_products": 40
+        },
+        {
+            "price_tier": "Medium",
+            "average_price": 30.166764705882354,
+            "average_rating": 3.0294117647058822,
+            "total_products": 34
+        }
+    ]
+}
