@@ -1,0 +1,106 @@
+{
+    "dashboard_generated_at": "2026-06-08 17:19:44",
+    "total_countries_reported": 231,
+    "top_affected_countries": [
+        {
+            "country": "USA",
+            "cases": 111820082,
+            "deaths": 1219487,
+            "recovered": 109814428,
+            "critical": 940,
+            "active": 786167,
+            "mortality_rate": 1.09,
+            "critical_ratio": 0.12
+        },
+        {
+            "country": "India",
+            "cases": 45035393,
+            "deaths": 533570,
+            "recovered": 0,
+            "critical": 0,
+            "active": 44501823,
+            "mortality_rate": 1.18,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "France",
+            "cases": 40138560,
+            "deaths": 167642,
+            "recovered": 39970918,
+            "critical": 0,
+            "active": 0,
+            "mortality_rate": 0.42,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "Germany",
+            "cases": 38828995,
+            "deaths": 183027,
+            "recovered": 38240600,
+            "critical": 0,
+            "active": 405368,
+            "mortality_rate": 0.47,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "Brazil",
+            "cases": 38743918,
+            "deaths": 711380,
+            "recovered": 36249161,
+            "critical": 0,
+            "active": 1783377,
+            "mortality_rate": 1.84,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "S. Korea",
+            "cases": 34571873,
+            "deaths": 35934,
+            "recovered": 34535939,
+            "critical": 0,
+            "active": 0,
+            "mortality_rate": 0.1,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "Japan",
+            "cases": 33803572,
+            "deaths": 74694,
+            "recovered": 0,
+            "critical": 0,
+            "active": 33728878,
+            "mortality_rate": 0.22,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "Italy",
+            "cases": 26723249,
+            "deaths": 196487,
+            "recovered": 26361218,
+            "critical": 22,
+            "active": 165544,
+            "mortality_rate": 0.74,
+            "critical_ratio": 0.01
+        },
+        {
+            "country": "UK",
+            "cases": 24910387,
+            "deaths": 232112,
+            "recovered": 24678275,
+            "critical": 0,
+            "active": 0,
+            "mortality_rate": 0.93,
+            "critical_ratio": 0.0
+        },
+        {
+            "country": "Russia",
+            "cases": 24124215,
+            "deaths": 402756,
+            "recovered": 23545818,
+            "critical": 0,
+            "active": 175641,
+            "mortality_rate": 1.67,
+            "critical_ratio": 0.0
+        }
+    ]
+}
